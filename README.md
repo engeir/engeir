@@ -1,10 +1,11 @@
-Stay tuned...
+[![My github stats](https://github-readme-stats.vercel.app/api?username=engeir&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **engeir/engeir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 Here are some ideas to get you started:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engeir&theme=buefy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engeir&theme=dark&layout=compact)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=engeir&repo=isr_spectrum&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
