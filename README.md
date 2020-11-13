@@ -1,6 +1,5 @@
+<img src="life.gif" width="200" align="right">
 [![My github stats](https://github-readme-stats.vercel.app/api?username=engeir&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="life.gif" width="500">
 
 <!--
 **engeir/engeir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
