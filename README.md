@@ -4,6 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engeir&theme=dark&layout=compact)
 
+![Shell history](https://api.atuin.sh/img/engeir.png?token=00b9c3c06cdbe511282d6568a1817384bd857017)
+
 <!--
 **engeir/engeir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
