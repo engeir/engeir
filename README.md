@@ -5,13 +5,13 @@
 [![My github stats](https://github-readme-stats.vercel.app/api?username=engeir&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engeir&theme=dark)
 
+</div>
+
+<!--
 ![Shell history](https://api.atuin.sh/img/engeir.png?token=00b9c3c06cdbe511282d6568a1817384bd857017)
 
 <img src="output.gif" width="80%" align="center">
 
-</div>
-
-<!--
 **engeir/engeir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 Here are some ideas to get you started:
