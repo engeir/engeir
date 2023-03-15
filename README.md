@@ -4,8 +4,6 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=engeir&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engeir&theme=dark)
-  
-![Shell history](https://api.atuin.sh/img/engeir.png?token=00b9c3c06cdbe511282d6568a1817384bd857017)
 
 </div>
 
