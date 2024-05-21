@@ -1,3 +1,7 @@
+<img align="right" alt="Visitors" src="https://komarev.com/ghpvc/?username=engeir&color=000000&label=Views&style=for-the-badge">
+
+<br>
+
 <div align="center">
 
 <img src="logo-alt.svg" width="50%">
